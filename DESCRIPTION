@@ -1,0 +1,13 @@
+Package: StabRvsPair
+Type: Package
+Title: Calculate stable reversal gene pairs.
+Version: 1.1.2
+Author: MY NONG
+Maintainer: The package maintainer <shengxinzl123@163.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+RoxygenNote: 7.1.2
+NeedsCompilation: no
+Packaged: 2022-05-11 07:09:34 UTC; 123
