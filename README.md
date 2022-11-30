@@ -55,3 +55,7 @@ Get Sample Data.
 # Downstream analysis
 
 It can be used as a machine learning algorithm for feature screening such as SVM, random forest and LASSO to provide input data, and can also be used to build an artificial neural network.
+
+# Multicore operation
+
+Bugs in multi-core computing are still being fixed.
