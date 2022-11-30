@@ -42,7 +42,7 @@ GetPair=FindStabRvsPair(Normal,Tumor,0.9,0.1) #get REOs
 GenePair=CalStabRvsPair(GetPair,Normal,Tumor) #get REOs matrix.
 ```
 
-#Sample Data
+# Sample Data
 
 ```R
 data(Sample_Data)
