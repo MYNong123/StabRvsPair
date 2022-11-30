@@ -42,6 +42,13 @@ GetPair=FindStabRvsPair(Normal,Tumor,0.9,0.1) #get REOs
 GenePair=CalStabRvsPair(GetPair,Normal,Tumor) #get REOs matrix.
 ```
 
+#Sample Data
+
+```R
+data(Sample_Data)
+```
+Get Sample Data.
+
 # Downstream analysis
 
 It can be used as a machine learning algorithm for feature screening such as SVM, random forest and LASSO to provide input data, and can also be used to build an artificial neural network.
