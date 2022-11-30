@@ -1,6 +1,9 @@
 # StabRvsPair
 Thanks for supporting the StabRvsPair package written by Minyu Nong.
+WeChat official account:shengxinjx123
+
 ```R
+install.packages("devtools")
 devtools::install_github("MYNong123/StabRvsPair")
 ```
 Use this code to install the StabRvsPair package on your R.
